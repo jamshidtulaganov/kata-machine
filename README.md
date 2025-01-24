@@ -1,4 +1,4 @@
-## Developed live on twitch
+https://github.com/ThePrimeagen/kata-machine.git## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
 ## Naming
